@@ -1,0 +1,86 @@
+#bg_img {
+    background-image: url(images/ramzanbgpic.jpg);
+}
+#button {
+    border: none;
+    margin-top: 5px;
+}
+#h1 {
+    background-color: #0d1b2f;
+    color: white;
+    font-size: 100px;
+    width: 80%;
+    margin-bottom: 5px;
+    border-radius: 40px;
+}
+#calander {
+    width: 700px;
+    color: aliceblue;
+    margin-left: 600px;
+    margin-top: 20px;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:goldenrod;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0d1b2f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  table {
+    border-spacing: 20px;
+    
+  }
+  .th {
+      font-size: 20px;
+    padding: 15px;
+    color: #fff;
+  }
+  .th1 {
+    font-size: 22px;
+    padding: 18px;
+    color: #fff;
+  }
+  #ashra1 {
+   color: white;
+   text-align: right;
+   margin-right: 190px;
+   font-size: 40px;
+   margin-bottom: 1px;
+  }
+  #duaashra1 {
+    color: white;
+    text-align: right;
+    margin-right: 190px;
+    font-size: 25px;
+    margin-bottom: 1px;
+  }
+  #home1 {
+    color: goldenrod;
+    text-align: right;
+    margin-right: 190px;
+    font-size: 50px;
+    margin-bottom: 1px;
+  }
+  #sehridua1 {
+    color: white;
+    text-align: right;
+    margin-right: 190px;
+    font-size: 30px;
+    margin-bottom: 1px;
+  }
+  
